@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.box {
+	bacground-color: white;
+	height:100vh;
+	padding:10px;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	
+}
+.head {
+	
+	
+	color:purple;
+	display:flex;
+	position: relative;
+	top: 115px;
+	left:60px;
+	font-size:25px
+	
+}
+.center {
+	background-color: lightblue;
+	
+	height:100vh;
+	width: 250px;
+	height: 250px;
+	display:flex;
+	border: 3px solid black;
+	
+}
