@@ -7,7 +7,8 @@
 	position:absolute;
 	top:200px;
 	left:140px;
-	border-top-width:2px;
+	
+	
 	
 }
 .head {
@@ -20,15 +21,15 @@
 	left:150px;
 	font-size:25px
 	
+	
 }
 .center {
 	background-color: lightblue;
-	
 	height:100vh;
 	width: 400px;
 	height: 400px;
 	display:flex;
-	border-top-width: 2px solid black;
+	border-top-width:2px solid black;
 	border: 2px solid black;
 	
 }
