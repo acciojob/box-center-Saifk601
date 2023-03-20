@@ -7,6 +7,7 @@
 	position:absolute;
 	top:200px;
 	left:140px;
+	border-top-width:2px;
 	
 }
 .head {
@@ -27,6 +28,7 @@
 	width: 400px;
 	height: 400px;
 	display:flex;
+	border-top-width: 2px solid black;
 	border: 2px solid black;
 	
 }
