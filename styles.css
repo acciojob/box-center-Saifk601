@@ -4,8 +4,9 @@
 	height:100vh;
 	padding:10px;
 	display: flex;
-	justify-content: center;
-	align-items:center;
+	position:absolute;
+	top:200px;
+	left:140px;
 	
 }
 .head {
@@ -13,9 +14,9 @@
 	
 	color:purple;
 	display:flex;
-	position: relative;
-	top: 115px;
-	left:60px;
+	position: absolute;
+	top:200px ;
+	left:150px;
 	font-size:25px
 	
 }
@@ -23,8 +24,8 @@
 	background-color: lightblue;
 	
 	height:100vh;
-	width: 250px;
-	height: 250px;
+	width: 400px;
+	height: 400px;
 	display:flex;
 	border: 2px solid black;
 	
