@@ -11,6 +11,7 @@
 	height: 200px;
 	background-color: lightblue;
 	border: 2px solid black;
+	border-top-width: 2px solid black;
 	display: flex;
 	justify-content: center;
 	align-items: center;
