@@ -1,35 +1,14 @@
 /*  your css code here. If applicable */
-.box {
-	bacground-color: white;
-	height:100vh;
-	padding:10px;
-	display: flex;
-	position:absolute;
-	top:200px;
-	left:140px;
-	
-	
-	
-}
 .head {
+	background-color: #ADD8E6;
+	border: 2px solid black;
+	display: inline-block;
+	padding:100px;
+	color: purple;
 	
-	
-	color:purple;
-	display:flex;
-	position: absolute;
-	top:200px ;
-	left:150px;
-	font-size:25px
 	
 	
 }
-.center {
-	background-color: lightblue;
-	height:100vh;
-	width: 400px;
-	height: 400px;
-	display:flex;
-	border-top-width:2px solid black;
-	border: 2px solid black;
+
 	
 }
